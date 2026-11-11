@@ -103,7 +103,6 @@ ClipMemo — небольшая десктопная утилита, котор�
 - **C# / .NET 8, Windows Forms** — интерфейс.
 - **SQLite** (System.Data.SQLite) — хранение истории и настроек.
 - **Inno Setup** — установщик.
-- Single-file публикация: `dotnet publish -c Release -r win-x64 --self-contained true /p:PublishSingleFile=true`
 
 ---
 
